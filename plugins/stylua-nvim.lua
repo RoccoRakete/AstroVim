@@ -1,0 +1,5 @@
+return {
+  {
+  "shoukoo/stylua.nvim"
+    },
+}
